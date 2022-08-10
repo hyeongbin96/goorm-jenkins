@@ -9,7 +9,7 @@ node {
 
     stage('Build image') {
   
-       app = docker.build("hbkw1772/test")
+       app = docker.build("hbkw1772/goorm-project")
     }
 
     stage('Test image') {
