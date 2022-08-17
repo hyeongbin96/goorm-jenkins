@@ -1,2 +1,2 @@
 # jenkins pipline
-version 2.3
+version 3
