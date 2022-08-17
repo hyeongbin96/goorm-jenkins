@@ -1,2 +1,2 @@
 # jenkins pipline
-version 5 project
+version 6 project
